@@ -943,7 +943,7 @@ void MainWindow::on_pushButton_2_clicked()
 
 void MainWindow::on_pushButton_3_clicked()
 {
-    QMessageBox::information(nullptr, "Information", "This project created by Ashkan Hafezi , AmirMehdi Eslami" );
+    QMessageBox::information(nullptr, "Information", "This project created by AmirHossein Zendevani" );
 }
 
 void MainWindow::on_pushButton_4_clicked()
